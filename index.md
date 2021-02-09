@@ -8,10 +8,10 @@
 [CSS Demo Filters Style](demo_filters.html)
 >
 
-[CSS Demo Linear Gradient Style]demo_linear_gradients.html)
+[CSS Demo Linear Gradient Style](demo_linear_gradients.html)
 > 
 
-[CSS Demo Radial Gradient Style]demo_radial_gradients.html)
+[CSS Demo Radial Gradient Style](demo_radial_gradients.html)
 > 
 
 [CSS Demo Repeating Linear Gradient Style](demo_repeat_linear_gradients.html)

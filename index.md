@@ -1,7 +1,7 @@
 # CTI-110-W: Tutorial 4 
 
 ## Demo Pages
----
+
 [CSS Demo text-shadow Style](https://acc-it-dept.github.io/CTI-110-W-T4-Demo/demo_text_shadows.html)
 >
 [CSS Demo Repeating Radial Gradient Style](https://acc-it-dept.github.io/CTI-110-W-T4-Demo/demo_repeat_radial_gradients.html)

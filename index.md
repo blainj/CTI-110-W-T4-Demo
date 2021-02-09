@@ -1,7 +1,6 @@
 # CTI-110-W: Tutorial 4 
 
 ## Demo Pages
-
 ---
 [CSS Demo text-shadow Style](https://acc-it-dept.github.io/CTI-110-W-T4-Demo/demo_text_shadows.html)
 >
